@@ -3,7 +3,7 @@ A list of resources for #codenewbies.
 
 Looking to start your journey in code? This is a growing list of (largely) free resources for teaching yourself how to code. Much of the material covers web development and Python, but there are some general recommendations as well. For those looking to explore tech skills related to code, there's also a section for learning skills like UX. 
 
-All resources listed here are free unless they have a :moneybag: symbol. I have only included paid sources I have used myself and that I trust are good quality, and relatively affordable. They are by no means a must-purchase; working diligently, you can learn enough to start freelancing just from the free sources here. 
+All resources listed here are free unless they have a :moneybag: symbol. This is aside from books, which can either be bought or borrowed.  I have only included paid sources I have used myself and that I trust are good quality, and relatively affordable. They are by no means a must-purchase; working diligently, you can learn enough to start freelancing just from the free sources here. 
 
 ## Dip Your Toes In
 
@@ -64,6 +64,9 @@ What he's good for: C++, game development, coffee.
 2. [Clean Code: a Handbook of Agile Software Craftsmanship](https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/) - Robert C. Martin.
 3. [HTML & CSS](http://www.htmlandcssbook.com/) - Jon Duckett
 4. [JavaScript and JQuery](http://javascriptbook.com/) - John Duckett
+6. [You Don't Know Javascript]
+7. [JavaScript: The Good Parts](https://github.com/NorthPaulo/research/blob/master/Frontend-books%26research/JavaScript%20-%20The%20Good%20Parts%20-%20Douglas%20Crockford%20-%20May%202008.pdf)
+5. [Python Crash Course: A Hands-On, Project-Based Intrduction to Programming](https://www.amazon.co.uk/Python-Crash-Course-Hands-Project-Based-ebook/dp/B018UXJ9RI)
 
 ## Blogs
 1. [The Practical Dev](https://dev.to/)
