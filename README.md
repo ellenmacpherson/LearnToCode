@@ -26,26 +26,30 @@ What it's not as good for: It doesn't have as broad a range of subjects as other
 
 4. :moneybag:[Treehouse](https://teamtreehouse.com/)
 
-What it's good for:
-What it's not as good at: 
+What it's good for: Career-track courses.
 
 ## Video Courses
-1. :moneybag:[Udemy](https://www.udemy.com/)
 
-Highlights: Web Developement Bootcamp, The Complete JavaScript Course 2019, Modern JavaScript From the Beginning.
-2. [Coursera](https://www.coursera.org/) - free to audit courses.
-3. [CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
+1. [Coursera](https://www.coursera.org/) - free to audit courses.
+2. [CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
+3. [MIT OpenCourseWare](https://ocw.mit.edu/)
+4. :moneybag:[Udemy](https://www.udemy.com/) - make sure to keep an eye out for sales where you can buy courses for a fraction of their full price. These happen so often that I never recommend buying a full-price course.
+5. :moneybag:[egghead.io](https://egghead.io/)
+
 
 ## Youtubers
 1. [Brad Traversy](https://www.youtube.com/user/TechGuyWeb)
 
-What he's good for: All things web development - full-stack or front-end. Career and tech advice.
+What he's good for: All things web development - full-stack or front-end. All of it. There's a ridiculous amount of great content here. He also gives career and tech advice.
 
 2. [Wes Bos](https://www.youtube.com/user/wesbos)
 
 What he's good for: Web development, particularly React.
 
 3. [Blondie Bytes](https://www.youtube.com/channel/UC4DwZ2VXM2KWtzHjVk9M_xg)
+
+What she's good for: Full stack, quick code tutorials.
+
 4. [sentdex](https://www.youtube.com/sentdex)
 
 What he's good for: Python, machine learning, data science.
@@ -69,8 +73,19 @@ What he's good for: C++, game development, coffee.
 5. [Python Crash Course: A Hands-On, Project-Based Intrduction to Programming](https://www.amazon.co.uk/Python-Crash-Course-Hands-Project-Based-ebook/dp/B018UXJ9RI)
 
 ## Blogs
-1. [The Practical Dev](https://dev.to/)
+1. [A List Apart](https://alistapart.com/)
+2. [Smashing Magazine](https://www.smashingmagazine.com/)
+2. [The Practical Dev](https://dev.to/)
+4. [Kent C. Dodds](https://kentcdodds.com/blog/)
 2. [Ali Spittel](https://www.alispit.tel/)
+
+## Podcasts
+
+1. [CodeNewbie](https://www.codenewbie.org/podcast)
+2. [Shop Talk Show](https://shoptalkshow.com/)
+3. [Front-End Happy Hour](https://frontendhappyhour.com/)
+4. [The Changelog](https://changelog.com/podcast)
+5. [Developer Tea](https://spec.fm/podcasts/developer-tea)
 
 ## Meetups
 
