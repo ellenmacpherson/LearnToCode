@@ -31,9 +31,13 @@ What it's good for: Career-track courses.
 ## Video Courses
 
 [Coursera](https://www.coursera.org/) - free to audit courses.
+
 [CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
+
 [MIT OpenCourseWare](https://ocw.mit.edu/)
+
 :moneybag:[Udemy](https://www.udemy.com/) - make sure to keep an eye out for sales where you can buy courses for a fraction of their full price. These happen so often that I never recommend buying a full-price course.
+
 :moneybag:[egghead.io](https://egghead.io/)
 
 
@@ -59,40 +63,60 @@ C++, game development, coffee.
 ## Books
 
 [The Pragmatic Programmer](https://www.amazon.co.uk/Pragmatic-Programmer-Andrew-Hunt/dp/020161622X) - Andy Hunt, Dave Thomas
+
 [Clean Code: a Handbook of Agile Software Craftsmanship](https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/) - Robert C. Martin.
+
 [HTML & CSS](http://www.htmlandcssbook.com/) - Jon Duckett
+
 [JavaScript and JQuery](http://javascriptbook.com/) - John Duckett
+
 [You Don't Know Javascript]
+
 [JavaScript: The Good Parts](https://github.com/NorthPaulo/research/blob/master/Frontend-books%26research/JavaScript%20-%20The%20Good%20Parts%20-%20Douglas%20Crockford%20-%20May%202008.pdf)
+
 [Python Crash Course: A Hands-On, Project-Based Intrduction to Programming](https://www.amazon.co.uk/Python-Crash-Course-Hands-Project-Based-ebook/dp/B018UXJ9RI)
 
 ## Blogs
 [A List Apart](https://alistapart.com/)
+
 [Smashing Magazine](https://www.smashingmagazine.com/)
+
 [The Practical Dev](https://dev.to/)
+
 [Kent C. Dodds](https://kentcdodds.com/blog/)
+
 [Ali Spittel](https://www.alispit.tel/)
 
 ## Podcasts
 
 [CodeNewbie](https://www.codenewbie.org/podcast)
+
 [Shop Talk Show](https://shoptalkshow.com/)
+
 [Front-End Happy Hour](https://frontendhappyhour.com/)
+
 [The Changelog](https://changelog.com/podcast)
+
 [Developer Tea](https://spec.fm/podcasts/developer-tea)
 
 ## Meetups
 
 [Women Who Code](https://www.womenwhocode.com/)
+
 [PyLadies](https://www.pyladies.com/)
+
 [Tech For Good](https://tech-for-good-near-you.herokuapp.com/)
+
 [Codebar](https://codebar.io/)
+
 [Coder Dojo](https://coderdojo.com/) - ages 7 to 17 only.
+
 [Google Developer Group](https://developers.google.com/community/gdg)
 
 ## Non-code tech resources
 
 [Ladies that UX](https://www.ladiesthatux.com/)
+
 :moneybag:[Interaction Design Foundation](https://www.interaction-design.org/)
 
 ## Soft Skills
