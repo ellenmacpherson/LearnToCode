@@ -3,16 +3,15 @@ A list of resources for #codenewbies.
 
 Looking to start your journey in code? This is a growing list of (largely) free resources for teaching yourself how to code. Much of the material covers web development and Python, but there are some general recommendations as well. For those looking to explore tech skills related to code, there's also a section for learning skills like UX. 
 
-All resources are marked free or paid. They are only marked as paid if the vast majority or entirety of the content is under a paywall. I've done my best to pick affordable sources. 
-
+All resources listed here are free unless they have a :moneybag: symbol. I have only included paid sources I have used myself and that I trust are good quality, and relatively affordable. They are by no means a must-purchase; working diligently, you can learn enough to start freelancing just from the free sources here. 
 
 ## Dip Your Toes In
 
 1. [Codecademy](https://www.codecademy.com/) 
 
-The first place I ever started coding. 
+The first place I, and thousands of others, ever started coding.  
 
-What it's good for: Getting your first lines of code written. It's an accessible and enjoyable way to start your code journey.
+What it's good for: Getting your first lines of code written. It's an accessible and enjoyable way to start your code journey. Courses are relatively short, and allow you to get a feel for several programming languages.
 What it's not as good at: Computer science principles, algorithms and logic. 
 
 2. [FreeCodeCamp](https://www.freecodecamp.org/)
