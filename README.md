@@ -84,15 +84,20 @@ I've linked to the 20th Anniversary Edition which updates some of the more outda
 There's no doubt: this was definitely written in a time where software development was a less inclusive space. Despite its language and tone being a little outdated, the advice on how to write clean code in this book is really crucial for every aspiring developer. Almost every developer I know has a PDF copy on their machine. 
 
 [HTML & CSS](http://www.htmlandcssbook.com/) and [JavaScript and JQuery](http://javascriptbook.com/) - Jon Duckett
- - John Duckett
 
 Fantastic resources for learning the basics of web development. Great for visual learners.
 
-[You Don't Know Javascript]
+[You Don't Know Javascript](https://github.com/getify/You-Dont-Know-JS)
+
+A series of books diving deep into the core mechanisms of the JavaScript language, sponsored by Frontend Masters. Not for complete beginners, but once you have a good understanding of the basics this is a good resource for diving deeper into the quirks of JS. 
 
 [JavaScript: The Good Parts](https://github.com/NorthPaulo/research/blob/master/Frontend-books%26research/JavaScript%20-%20The%20Good%20Parts%20-%20Douglas%20Crockford%20-%20May%202008.pdf)
 
+Similarly to You Don't Know Javascript, this is a good resource for breaking down and understanding the trickier parts of the JS language. 
+
 [Python Crash Course: A Hands-On, Project-Based Intrduction to Programming](https://www.amazon.co.uk/Python-Crash-Course-Hands-Project-Based-ebook/dp/B018UXJ9RI)
+
+This thing is a *tome*, but you won't find another book that's more comprehensive or accessible on learning Python. Very project-based, which makes it good fun.
 
 ## Blogs
 [A List Apart](https://alistapart.com/)
@@ -100,6 +105,8 @@ Fantastic resources for learning the basics of web development. Great for visual
 [Smashing Magazine](https://www.smashingmagazine.com/)
 
 [The Practical Dev](https://dev.to/)
+
+A brilliant open-source project which has fast become *the* hub for writing on software and web development. Some gems on here from beginners, right through to developers with decades of experience.
 
 [Kent C. Dodds](https://kentcdodds.com/blog/)
 
