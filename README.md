@@ -87,30 +87,42 @@ There's no doubt: this was definitely written in a time where software developme
 
 Fantastic resources for learning the basics of web development. Great for visual learners.
 
+[A Book Apart](https://abookapart.com/)
+
+Short guides for web development, design and content strategy. These can be pricey to get your hands on, but check the internet for second-hand versions. If you can invest, I'd highly recommend it. As someone on the design/development/copy fence, they're my go-to for advice.
+
 [You Don't Know Javascript](https://github.com/getify/You-Dont-Know-JS)
 
 A series of books diving deep into the core mechanisms of the JavaScript language, sponsored by Frontend Masters. Not for complete beginners, but once you have a good understanding of the basics this is a good resource for diving deeper into the quirks of JS. 
 
 [JavaScript: The Good Parts](https://github.com/NorthPaulo/research/blob/master/Frontend-books%26research/JavaScript%20-%20The%20Good%20Parts%20-%20Douglas%20Crockford%20-%20May%202008.pdf)
 
-Similarly to You Don't Know Javascript, this is a good resource for breaking down and understanding the trickier parts of the JS language. 
+Similarly to You Don't Know Javascript, this is a good resource for breaking down and understanding the trickier parts of JS. 
 
 [Python Crash Course: A Hands-On, Project-Based Intrduction to Programming](https://www.amazon.co.uk/Python-Crash-Course-Hands-Project-Based-ebook/dp/B018UXJ9RI)
 
-This thing is a *tome*, but you won't find another book that's more comprehensive or accessible on learning Python. Very project-based, which makes it good fun.
+This thing is a *tome*, but you won't find another book that's more comprehensive or accessible on learning Python. Very project-based, which makes it good fun. You can build an alein-shooting game - need I say more?
 
 ## Blogs
 [A List Apart](https://alistapart.com/)
 
+A great companion to the Book Apart series, but also great on it's own. 
+
 [Smashing Magazine](https://www.smashingmagazine.com/)
+
+Blog posts from the who's who of web development.
 
 [The Practical Dev](https://dev.to/)
 
-A brilliant open-source project which has fast become *the* hub for writing on software and web development. Some gems on here from beginners, right through to developers with decades of experience.
+A brilliant open-source project which has fast become *the* hub for writing on software and web development. As with all public blog sites, the quality of the content varies. There are some gems on here from beginner to advanced levels.
 
-[Kent C. Dodds](https://kentcdodds.com/blog/)
+[CSS Tricks](https://css-tricks.com/)
+
+Again, varies in complexity, but has some incredibly handy resources like their intro to FlexBox breakdown. They have a handy page for [beginner content](https://css-tricks.com/guides/beginner/)
 
 [Ali Spittel](https://www.alispit.tel/)
+
+Ali started blogging as a way to record her own learning, so there's a lot of great beginner advice here.
 
 ## Podcasts
 
@@ -151,3 +163,5 @@ A really useful, fun podcast that introduces you to tech industries, technologie
 ## Soft Skills
 
 [Toastmasters](https://www.toastmasters.org/)
+
+Need to improve your public speaking skills? Toastmasters is the place to go. Free for the first few sessions then there's a fairly affordable fee for membership.
