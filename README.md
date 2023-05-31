@@ -101,7 +101,7 @@ Similarly to You Don't Know Javascript, this is a good resource for breaking dow
 
 [Python Crash Course: A Hands-On, Project-Based Intrduction to Programming](https://www.amazon.co.uk/Python-Crash-Course-Hands-Project-Based-ebook/dp/B018UXJ9RI)
 
-This thing is a *tome*, but you won't find another book that's more comprehensive or accessible on learning Python. Very project-based, which makes it good fun. You can build an alein-shooting game - need I say more?
+This thing is a *tome*, but you won't find another book that's more comprehensive or accessible on learning Python. Very project-based, which makes it good fun. You can build an alien-shooting game - need I say more?
 
 ## Blogs
 [A List Apart](https://alistapart.com/)
