@@ -5,7 +5,7 @@ Looking to start your journey in code? This is a growing list of (largely) free 
 
 No one source here will teach you everything. Have a play around with several different websites to get a more holistic learning experience.
 
-All resources listed here are free unless they have a :moneybag: symbol. This is aside from books, which I've left as 'free', as they can either be bought or borrowed.  I have only included paid sources I have used myself and that I trust are good quality, as well as relatively affordable. They are by no means a must-purchase. Working diligently, you can learn enough to start freelancing just from the free sources here. 
+All resources listed here are free unless they have a :moneybag: symbol. This is aside from books, which I've left as 'free', as they can either be bought or borrowed.  I have only included paid sources I have used myself and that I trust are good quality and relatively affordable. They are by no means a must-purchase. Working diligently, you can learn enough to start freelancing just from the free sources here. 
 
 ## Dip Your Toes In
 
