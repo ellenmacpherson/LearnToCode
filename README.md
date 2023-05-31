@@ -1,7 +1,7 @@
 # LearnToCode
 A list of resources for #codenewbies. 
 
-Looking to start your journey in code? This is a growing list of (largely) free resources for teaching yourself how to code and to understand what goes on in the world of software engineering. Much of the material covers HTML/CSS/JvaScript and Python, but there are some more general resources too. For those looking to explore tech skills outside code, there's also a section for learning other skills like UX. 
+Looking to start your journey in code? This is a growing list of (largely) free resources for teaching yourself how to code and to understand what goes on in the world of software engineering. Much of the material covers HTML/CSS/JavaScript and Python, but there are some more general resources too. For those looking to explore tech skills outside code, there's also a section for learning other skills like UX. 
 
 No one source here will teach you everything. Have a play around with several different websites to get a more holistic learning experience.
 
